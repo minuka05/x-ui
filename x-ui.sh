@@ -1127,7 +1127,7 @@ show_usage() {
 
 show_menu() {
     echo -e "
-  ${green}Admin Management Script ${plain}
+  ${green}VibeNet-LK Admin Management Script ${plain}
 ————————————————
   ${green}0.${plain} Exit 
 ————————————————
