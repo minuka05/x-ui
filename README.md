@@ -1,4 +1,4 @@
-# X-UI
+# VibeNet-LK
 **An Advanced Web Panel • Built on Xray Core**
 
 ![](https://img.shields.io/github/v/release/minuka05/x-ui.svg)

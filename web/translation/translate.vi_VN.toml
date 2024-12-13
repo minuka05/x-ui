@@ -63,7 +63,7 @@
 [menu]
 "dashboard" = "Tổng quan"
 "inbounds" = "Đầu Vào khách hàng"
-"settings" = "Cài đặt X-UI"
+"settings" = "Cài đặt VibeNet-LK"
 "xray" = "Cài đặt Xray"
 "logout" = "Đăng xuất"
 "link" = "Sự quản lý"
@@ -464,7 +464,7 @@
 "report" = "🕰 Báo cáo theo lịch trình: {{ .RunTime }}\r\n"
 "datetime" = "⏰ Ngày-Giờ: {{ .DateTime }}\r\n"
 "hostname" = "💻 Tên máy chủ: {{ .Hostname }}\r\n"
-"version" = "🚀 Phiên bản X-UI: {{ .Version }}\r\n"
+"version" = "🚀 Phiên bản VibeNet-LK: {{ .Version }}\r\n"
 "ipv6" = "🌐 IPv6: {{ .IPv6 }}\r\n"
 "ipv4" = "🌐 IPv4: {{ .IPv4 }}\r\n"
 "ip" = "🌐 IP: {{ .IP }}\r\n"

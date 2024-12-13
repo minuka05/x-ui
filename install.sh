@@ -270,7 +270,7 @@ install_x-ui() {
     echo -e "You may access the Panel with following URL(s):${yellow}"
     /usr/local/x-ui/x-ui uri
     echo -e "${plain}"
-    echo "X-UI Control Menu Usage"
+    echo "VibeNet-LK Control Menu Usage"
     echo "------------------------------------------"
     echo "SUBCOMMANDS:"
     echo "x-ui              - Admin Management Script"

@@ -1106,7 +1106,7 @@ run_speedtest() {
 }
 
 show_usage() {
-    echo "X-UI Control Menu Usage"
+    echo "VibeNet-LK Control Menu Usage"
     echo "------------------------------------------"
     echo "SUBCOMMANDS:"
     echo "x-ui              - Admin Management Script"

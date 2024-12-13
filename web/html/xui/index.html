@@ -86,7 +86,7 @@
                         <a-card hoverable>
                             <strong>{{ i18n "pages.inbounds.stream.tcp.version" }}:</strong>
                             <a href="https://github.com/minuka05/x-ui/releases" target="_blank">
-                                <a-tag color="purple" style="cursor: pointer;">X-UI {{ .cur_ver }}</a-tag>
+                                <a-tag color="purple" style="cursor: pointer;">VibeNet-LK {{ .cur_ver }}</a-tag>
                             </a>
                             <a-tooltip title='{{ i18n "pages.index.xraySwitch" }}'>
                                 <a-tag color="purple" style="cursor: pointer;" @click="openSelectV2rayVersion">Xray [[ status.xray.version ]]</a-tag>
@@ -479,7 +479,7 @@
                     if(message.startsWith("XRAY:"))
                         message = "<b>XRAY: </b>" + message.substring(5);
                     else
-                        message = "<b>X-UI: </b>" + message;
+                        message = "<b>VibeNet-LK: </b>" + message;
                 }
 
                 formattedLogs += message ? ' - ' + message : '';
