@@ -212,7 +212,7 @@ install_x-ui() {
 
     # modified 
     last_version=$1
-        url="https://github.com/minuka05/x-ui/releases/download/${last_version}/x-ui-linux-$(arch).tar.gz"
+        url="https://github.com/minuka05/x-ui/releases/download/1.8.8/x-ui-linux-$(arch).tar.gz"
         echo -e "Beginning to install x-ui v$1"
         wget -N --no-check-certificate -O /usr/local/x-ui-linux-$(arch).tar.gz ${url}
         if [[ $? -ne 0 ]]; then
